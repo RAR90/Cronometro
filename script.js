@@ -35,6 +35,10 @@ function reset() {
 
     clearInterval(intervalo)
     document.getElementById('cont').innerHTML = "00:00:00"
+    
+    sec = 0;
+    min = 0;
+    horas = 0;
 };
 
 function counter() {
