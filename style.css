@@ -1,0 +1,32 @@
+*{
+    border-style: none;
+}
+
+.start {
+    background-color: rgb(69, 138, 0);
+    
+}
+.pause {
+    background-color: rgb(158, 158, 158);
+}
+.reset {
+    background-color: crimson;
+}
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+button:hover {
+    cursor: pointer;
+}
+
+button {
+    height: 2.5em;
+    width: 5.5em; 
+    color: aliceblue
+
+};
+
+
+
